@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.asm
+main.cp
+*.mcl
+StepMotorController.bmk
+*.brk
+StepMotorController.dbg
+*.dct
+StepMotorController.lst
+StepMotorController.mcppi_callertable.txt
+*.dic
+StepMotorController.log
+*.dlt
+StepMotorController.cfg
